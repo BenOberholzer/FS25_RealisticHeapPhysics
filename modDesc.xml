@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="115">
+    <author>TypeO Modding</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Realistic Heap Physics</en>
+    </title>
+    <description>
+        <en>Experimental: encourages deeper pickup and wider spreading while pushing wood chips, chaff, and silage. Supports leveler blades and buckets with an enabled leveler component.</en>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="false"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/RealisticHeapPhysics.lua"/>
+    </extraSourceFiles>
+</modDesc>
